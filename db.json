@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "fullName": "Erik Lehnsherr",
+      "email": "magneto@genosha.com",
+      "message" : "This is a Test Message"
+    }
+  ],
+}
