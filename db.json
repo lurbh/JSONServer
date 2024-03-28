@@ -1,8 +1,13 @@
-"posts": [
-  {
-    "id": 1,
-    "fullName": "Erik Lehnsherr",
-    "email": "magneto@genosha.com",
-    "message" : "This is a Test Message"
+{
+  "posts": [
+    {
+      "id": 1,
+      "fullName": "Erik Lehnsherr",
+			"email": "magneto@genosha.com",
+			"message": "This is a Test Message"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
